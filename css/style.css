@@ -1,8 +1,12 @@
-/* .btn-lg {
-   padding: 10px 30px !important;
-   
-   opacity: 1 !important;
-} */
+@font-face {
+   font-family: 'Cambria';
+   src: url('../fonts/Cambria.ttf');
+}
+
+* {
+   font-family: 'Cambria', sans-serif !important;
+}
+
 
 html {
    box-sizing: border-box;
