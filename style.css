@@ -11,8 +11,6 @@ body {
     background-image: url('./images/bg.png');
     background-repeat: no-repeat;
     background-position: center center;
-    /* background-size: cover; */
-    background-attachment: fixed;
 }
 
 button.switch-month {
